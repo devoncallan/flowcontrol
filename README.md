@@ -1,2 +1,2 @@
 # flowcontrol
-Code for Controlling the Vapourtec
+Code for controlling the Vapourtec
