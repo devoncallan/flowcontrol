@@ -1,0 +1,18 @@
+
+Requirements of flow system software:
+
+- System monitoring:
+    - Real time updates of reactor temperature, pump flow rates, pump pressure,
+    - Set max volume that we can dispense from pump A, B for R/S
+    - Monitor total volume dispensed, current reacto
+
+- Execute experiments / routines:
+    - Ramp residence time
+
+- We can predict the 
+
+
+time_min,
+reactor_volume_mL, 
+volume_dispensed_mL,
+flow_rate_mL_per_min,
