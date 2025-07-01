@@ -117,6 +117,7 @@ class R2Interface:
         8 and 9 = fifth valve (waste/collection)"""
         
         return self._send(f"KP {valve_id}")
+    
     # def stop_experiment(self):
     #     msg = self._send("PF")
     #     time.sleep(5)
